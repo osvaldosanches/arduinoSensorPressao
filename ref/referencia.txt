@@ -1,0 +1,17 @@
+referencia
+https://www.arduino.cc/en/tutorial/AnalogInput
+
+constante do sensor
+http://repository.its.ac.id/47200/7/2414031012-Non_Degree.pdf
+
+medidas de pressão
+https://www.dutramaquinas.com.br/view/download/unidades_de_pressao.pdf
+-quilogramas por centímetro2 (kg/cm2) 
+-quilogramas por metro quadrado (kg/m2) 
+-pascal (Pa) 
+-quilopascals (kPa) 
+-bares (bar) 
+-milibares (mbar)
+-atmosferas (standard) (atm) 
+-atmósferas (técnica) = 1 kgf/cm2 
+-milímetros de mercúrio (mmHg) 
